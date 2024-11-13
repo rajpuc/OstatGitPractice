@@ -1,0 +1,5 @@
+build/
+temporary/hello/ohHello.txt
+*.log
+secret.txt
+temp.txt
